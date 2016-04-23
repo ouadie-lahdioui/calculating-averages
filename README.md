@@ -13,5 +13,6 @@ The test also expects that when you pass no arguments, it returns 0. The argumen
 
 It expects Calculator.average(3,4,5) to return 4.
 
-**Solution :** [calculator.js](https://github.com/ouadie-lahdioui/calculating-averages/calculator.js)
+**Solution :** [calculator.js](https://github.com/ouadie-lahdioui/calculating-averages/blob/master/calculator.js)
+
 **Source :** [codewars](http://www.codewars.com/kata/529f32794a6db5d32a00071f)
